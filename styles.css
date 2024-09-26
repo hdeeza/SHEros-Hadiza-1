@@ -22,15 +22,14 @@
 	align-items: center;
 }
 .header-text {
-	font-family: Gilda Display;
+	font-family: "Gilda Display";
 	font-size: 1.8rem;
 	font-weight: 400;
 	line-height: 32.96px;
 	text-align: left;
-	color: #25A59E;
     letter-spacing: 0.1em;
 }
-.travel {
+span{
 	color: #25a59e;
 }
 .travel-selfies {
